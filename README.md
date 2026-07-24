@@ -1,1 +1,1 @@
-# workshop_demo
+# python_workshop
